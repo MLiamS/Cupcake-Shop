@@ -1,0 +1,28 @@
+.flashy{
+  font-family: fantasy;
+  font-size: 60px;
+  text-align: center;
+  text-shadow: 6px 6px 6px red;
+  color: orange;
+}
+
+.description{
+  font-family: sans-serif;
+  font-weight: 50%;
+}
+
+h2.description{
+  font-family: monospace;
+  font-size: 30px;
+  color: brown;
+}
+
+p.description{
+  color: red;
+}
+
+.best {
+  font-size: 20px;
+  font-weight: bold;
+  color: blue;
+}
